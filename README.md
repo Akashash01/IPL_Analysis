@@ -1,6 +1,6 @@
 # IPL_Analysis_Project
 Provided the required insights using My Sql on Codebasics Project Challenge
-# Peoblem statement
+# Problem statement
 📍"Sports Basics" is a sports blog company that entered space recently. They
 wanted to get more traffic to their website by releasing a special edition magazine
 on IPL 2024. 
